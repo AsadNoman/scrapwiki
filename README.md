@@ -2,7 +2,7 @@
 create pdf files of wikipedia articles
 
 install requirements
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 clone this repo
 `git clone https://github.com/asadnoman/scrapwiki.git`
